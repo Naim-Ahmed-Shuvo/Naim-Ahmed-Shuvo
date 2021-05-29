@@ -3,8 +3,8 @@
 About Me :
 
 - 🔭 I’m currently working on web development and design
-- 🌱 I’m currently learning javascript node.js react.js
-- 👯 I’m looking to collaborate on MEARN Stack development
+- 🌱 I have learned html,css, javascript,jQuery,Php,Laravel Node.js React.js,Next.js,Vue.js,
+- 👯 I’m looking to collaborate on PHP(Laravel) or MEARN Stack development
 
 
 
